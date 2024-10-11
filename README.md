@@ -1,2 +1,2 @@
 # LastChance
-Proyecto para reducción del desperdicio de alimentos.
+LastChance es una plataforma innovadora diseñada para reducir el desperdicio de alimentos en Colombia, un problema que impacta gravemente tanto al medio ambiente como a la economía. Cada año, cerca del 34% de los alimentos producidos en el país se pierden, lo que equivale a aproximadamente 9.76 millones de toneladas. Una parte significativa de esta pérdida se debe a productos que no se venden antes de su fecha de vencimiento. Esta situación afecta no solo a productores y minoristas, sino también a los consumidores, quienes ven aumentar los precios como consecuencia de estas pérdidas.
